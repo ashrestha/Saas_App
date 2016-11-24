@@ -35,15 +35,21 @@ h1, h2, h3 {
 // Navbar Styles
 .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a{
-    color:white;
+    color:#518ed2;
     &:hover{
-        color:white;
+        color:#518ed2;
         opacity: 0.75;
     }
 }
 
 .navbar{
     border: none;
+}
+
+.navbar-brand{
+    font-family:'Satisfy', cursive;
+    font-weight:900;
+    font-size: 24px;
 }
 
 // Home Page Styles

@@ -36,6 +36,9 @@ gem 'font-awesome-sass', '4.7.0'
 
 #User Hirb for better database table display
 gem 'hirb', '0.7.3'
+
+#Use Devise for user authenticatio
+gem 'devise', '4.2.0'
  
 
 group :development, :test do
